@@ -1,4 +1,4 @@
-# Python_basics_for_ML
+# Python Basics for Data Science and ML
 
 Project from IBM's Data Science and Machine Learning Capstone Project course on EdX
 
