@@ -26,4 +26,4 @@ Relationships between launch site and launch outcome were interactively analyzed
 
 ### Machine Learning Prediction
 
-Several machine learning models (logistic regression, SVM, decison tree, and KNN) were trained on features of the launches (date, location, payload mass, etc.) to predict the outcomes of different launches. The decision tree model was found to perform with the highest accuracy while the three other models had significant difficulty classifying failed launches.
+Several machine learning models (logistic regression, SVM, decison tree, and KNN) were trained on features of the launches (date, location, payload mass, etc.) to predict the outcomes of different launches. The decision tree model was found to perform with the highest accuracy while the three other models had significant difficulty classifying failed launches (ML for Prediction notebook)
